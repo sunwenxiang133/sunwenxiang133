@@ -43,12 +43,17 @@
 
 | 年份 | 奖项 | 等级 |
 | :--- | :--- | :--- |
+| 2026 | 校级研究生创新项目负责人 |  |
+| 2025 | 校研究生奖学金 | **三等** |
 | 2025 | 全国集成电路创新大赛 (集创赛) | **华南赛区三等奖** |
 | 2025 | 第十六届蓝桥杯 (FPGA / 物联网 / Web) | **省二 / 省三/省三** |
+| 2023 | 校本科生奖学金 | **二等** |
+| 2023 | 校优秀学生干部 |  |
 | 2022 | 桂林市大学生创新创业大赛 | **市二等奖** |
 | 2022 | 广西人工智能设计大赛 | **省二等奖** |
-| 2022 | 第十三届蓝桥杯 (C/C++) | **省二等奖** |
+| 2022 | 第十三届绘蓝杯 (C/C++) | **省二等奖** |
 | 2021 | 广西翻译大赛 | **省一等奖** |
+| 2020 | 大学英语六级 | **508分** |
 
 ---
 
@@ -56,8 +61,8 @@
 
 - **班长**: 2020-2022 (本科), 2024-至今 (研究生)
 - **助理班主任**: 2022-2024 (本科), 2025-至今 (研究生)
-- **党支部组织委员**: 2023-至今
-- **研究生会党团办公室**: 2024-至今
+- **研究生软工党支部支部委员**: 2023-至今
+- **研究生会党团办公室主任**: 2024-至今
 
 ---
 
@@ -66,7 +71,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunwenxiang133&theme=radical" alt="GitHub Streak" />
 </div>
-
 
 
 [![Sunwenxiang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunwenxiang133&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
