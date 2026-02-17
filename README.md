@@ -9,7 +9,7 @@
 - 🏫 **硕士研究生 (2024 - 至今)**: 桂林电子科技大学 (New Master Student)
 - 🎓 **本科 (2020 - 2024)**: 桂林电子科技大学 (Bachelor's Degree)
 - 📍 **地点**: 江苏省徐州市 / 广西桂林
-- 📧 **Email**: sunwenxiang133@gmail.com
+- 📧 **Email**: sunwenxiang133826@126.com
 - 💼 **Focus**: 嵌入式系统 (Embedded Systems), RISC-V, FPGA, 实时系统 (RTOS)
 
 ---
